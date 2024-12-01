@@ -1,6 +1,6 @@
-import Fields, { fieldprops } from './Fields';
+import Fields, { Fieldprops } from './Fields';
 
-  export const field: fieldprops[] = [
+  export const field: Fieldprops[] = [
   { label: 'First Name', placeholder: 'plz provide First Name' },
   { label: 'Last Name', placeholder: 'plz provide Last Name' },
   { label: 'User Name', placeholder: 'plz provide User Name' },

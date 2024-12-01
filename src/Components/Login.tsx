@@ -1,6 +1,6 @@
-import Fields, { fieldprops } from './Fields';
+import Fields ,{Fieldprops} from './Fields';
 
-const field: fieldprops[] = [
+const field: Fieldprops[] = [
   { label: 'User Name', placeholder: 'plz provide User Name' },
   { label: 'Password', placeholder: 'plz provide Password', type: 'password' },
 ];
